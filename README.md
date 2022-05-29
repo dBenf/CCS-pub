@@ -1,6 +1,6 @@
-# CCS-pub
+# Cognitive Computing System
 
-This is a repository for me and my collegue Vincenzo Carandente cognitive project based on visual recognition by FuseMedML.
+This is a repository for me and my collegue Vincenzo Carandente exam project based on visual recognition using FuseMedML.
 
 In the project folder can be found:
 - Immagini: folder contains the figure output of the classification
