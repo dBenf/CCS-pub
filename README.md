@@ -10,4 +10,4 @@ In the project folder can be found:
 - PDF file exported from the notebook itself
 - A user guide for the library FuseMedML, with some description of the object and a universal template
 
-During this execution we have used **FuseMedML**; found some documentation to the link https://github.com/IBM/fuse-med-ml
+During this execution we have used **FuseMedML**; found some documentation to this [link](https://github.com/IBM/fuse-med-ml)
