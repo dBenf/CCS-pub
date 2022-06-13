@@ -1,6 +1,6 @@
 # Cognitive Computing System
 
-This is a repository for me and my collegue Vincenzo Carandente exam project based on visual recognition using FuseMedML.
+This is a repository for me and my collegue Vincenzo Carandente exam of **Cognitive Computing System** project for *University of Naples Federico II* based on visual recognition using FuseMedML.
 
 In the project folder can be found:
 - Immagini: folder contains the figure output of the classification
